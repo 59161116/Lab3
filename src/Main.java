@@ -8,9 +8,9 @@ public class Main {
         int ans =JOptionPane.showConfirmDialog(null, "รักหรือป่าว",
                 "ถามเธอ", JOptionPane.YES_NO_OPTION);
         if (ans==JOptionPane.YES_OPTION) {
-            JOptionPane.showMessageDialog(null,"รักนะ");
+            JOptionPane.showMessageDialog(null,"รักนะ ");
         } else {
-            JOptionPane.showMessageDialog(null,"จำไว้เลย");
+            JOptionPane.showMessageDialog(null,"จำไว้เลย ");
         }
 
 
